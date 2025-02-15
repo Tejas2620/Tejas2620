@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced Kubernetes
-- Machine Learning with TensorFlow
+- Front-End Development
+- Machine Learning 
 - Blockchain Development
 
 ---
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:tejastech@example.com"><img src="https://img.shields.io/badge/Email-tejastech@example.com-000?&logo=Gmail" alt="Email"></a>
+  <a href="mailto:tejaspawar2620@gmail.com"><img src="https://img.shields.io/badge/Email-tejastech@example.com-000?&logo=Gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/Tejas2620/"><img src="https://img.shields.io/badge/LinkedIn-Tejas2620-000?&logo=LinkedIn" alt="LinkedIn"></a>
   <a href="https://twitter.com/Tejas2620"><img src="https://img.shields.io/badge/Twitter-@Tejas2620-000?&logo=Twitter" alt="Twitter"></a>
 </p>
@@ -60,24 +60,9 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes Networking](https://blog.example.com/kubernetes-networking)
-- [A Deep Dive into React Hooks](https://blog.example.com/react-hooks)
-- [Building Scalable APIs with Node.js](https://blog.example.com/scalable-apis-node)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project Name](https://github.com/Tejas2620/project-name)**: A brief description of the project.
-- **[Another Project](https://github.com/Tejas2620/another-project)**: Another brief description of the project.
-
----
 
 Thank you for visiting my profile! 😊
 ```` ▋
