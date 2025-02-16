@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:tejaspawar2620@gmail.com"><img src="https://img.shields.io/badge/Email-tejastech@example.com-000?&logo=Gmail" alt="Email"></a>
+  <a href="mailto:tejaspawar2620@gmail.com"><img src="https://img.shields.io/badge/Email-tejaspawar2620@gmail.com-000?&logo=Gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/Tejas2620/"><img src="https://img.shields.io/badge/LinkedIn-Tejas2620-000?&logo=LinkedIn" alt="LinkedIn"></a>
   <a href="https://twitter.com/Tejas2620"><img src="https://img.shields.io/badge/Twitter-@Tejas2620-000?&logo=Twitter" alt="Twitter"></a>
 </p>
